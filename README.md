@@ -77,20 +77,14 @@ Designing clean and intuitive UI layouts
 London-Stock-Market-Dashboard/
 │
 ├── data/
-
-│   └── london_stock_data.csv       
-
+│   └── london_stock_data.csv        # Raw stock dataset
 │
-├── app.py                          
-
-├── requirements.txt                 
-
-
-├── README.md     
+├── app.py                           # Main Streamlit application
+├── requirements.txt                 # Project dependencies
+├── README.md                        # Project documentation
 │
-├
-
+├── assets/
+│   └── dashboard_preview.png        # Dashboard screenshot
+│
 └── notebooks/
-
-    └── data_analysis.ipynb          
-    
+    └── data_analysis.ipynb          # Exploratory data analysis
