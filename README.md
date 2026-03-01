@@ -72,26 +72,3 @@ Handling time-series stock data
 
 Designing clean and intuitive UI layouts
 
-📂 Project Structure
-
-London-Stock-Market-Dashboard/
-│
-
-├── data/
-
-│   └── london_stock_data.csv        # Raw stock dataset
-
-├── app.py    
-# Main Streamlit application
-
-├── requirements.txt 
-# Project dependencies
-
-├── README.md     
-# Project documentation
-
-│
-└── notebooks/
-
-    └── data_analysis.ipynb      
-    # Exploratory data analysis
